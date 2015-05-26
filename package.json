@@ -1,0 +1,27 @@
+{
+  "name": "warena",
+  "version": "0.0.1",
+  "description": "Turn by turn game",
+  "main": "warena.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romaintailhurat/warena.git"
+  },
+  "keywords": [
+    "turn-based",
+    "game",
+    "tactics"
+  ],
+  "author": "romaintailhurat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romaintailhurat/warena/issues"
+  },
+  "homepage": "https://github.com/romaintailhurat/warena",
+  "devDependencies": {
+    "gulp-babel": "^5.1.0"
+  }
+}
